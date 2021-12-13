@@ -1,5 +1,5 @@
 ### Repository for the K8s video project
-
+Based on TechWorld with Nana's kubernetes mongo and webapp project
 
 #### K8s manifest files 
 * mongo-config.yaml
